@@ -8,7 +8,7 @@ function App() {
       <div className="bg-green-400 sm:bg-red-400 w-full sm:w-60 h-60 rounded-xl grid place-items-center text-8xl m-2 ">3</div>
       <div className="bg-green-400 sm:bg-red-400 w-full sm:w-60 h-60 rounded-xl grid place-items-center text-8xl m-2 ">4</div>
       <div className="bg-green-400 sm:bg-red-400 w-full sm:w-60 h-60 rounded-xl grid place-items-center text-8xl m-2 ">5</div>
-      <div className="bg-green-400 sm:bg-red-400 w-full sm:w-60 h-60 rounded-xl grid place-items-center text-8xl m-2 ">5</div>
+      <div className="bg-green-400 sm:bg-red-400 w-full sm:w-60 h-60 rounded-xl grid place-items-center text-8xl m-2 ">6</div>
       <div className="bg-green-400 sm:bg-red-400 w-full sm:w-60 h-60 rounded-xl grid place-items-center text-8xl m-2 ">7</div>
       <div className="bg-green-400 sm:bg-red-400 w-full sm:w-60 h-60 rounded-xl grid place-items-center text-8xl m-2 ">8</div>
       <div className="bg-green-400 sm:bg-red-400 w-full sm:w-60 h-60 rounded-xl grid place-items-center text-8xl m-2 ">9</div>
